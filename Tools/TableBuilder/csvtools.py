@@ -81,8 +81,10 @@ class datatable:
 			file = open(listfile)
 			datalist = file.read().split("\n")
 			file.close()
-		if this.getheight() != (entries + 2):
-			this.addheight((this.getheight() - 2) + entries)
+		if this.getheight() == 2: # uninitialized table
+			this.addheight(entries)
+		else:
+			return
 		romfile.setoffset(this.getoffset())
 		for row in range(this.getheight()):
 			if row != 0 and row != 1:
