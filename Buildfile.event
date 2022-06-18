@@ -1,0 +1,31 @@
+//Definitions
+#include "Definitions/_MasterDefinitionInstaller.event"
+#include "Tables/_MasterDefinitionInstaller.event"
+
+ORG EndSpace
+
+//Writians
+//#include "Writans/_TextTable/TextTable.event"
+//#include "Writans/_MasterTextInstaller.event"
+
+//Spritans
+//#include "Spritans/_MasterSpritansInstaller.event"
+
+//Sound
+//#include "Sound/_SoundTable/SoundTable.event"
+//#include "Sound/_Instrument/Instrument.event"
+//#include "Sound/_MasterSoundInstaller.event"
+
+//Tables
+//#include "Tables/_MasterTableInstaller.event"
+//#include "Tables/_Repoint/MoreRepointers.event"
+//#include "Tables/EA_Files/ManualTableInstaller.event"
+
+//Maps
+//#include "Maps/tmx/_MasterMapInstaller.event"
+
+//Events
+//#include "Events/_MasterEventInstaller.event"
+
+//Wizardry
+//#include "Wizardry/_MasterWizardryInstaller.event"

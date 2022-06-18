@@ -1,0 +1,10 @@
+#ifndef StandMapSpriteTable
+#define StandMapSpriteTable 0x8AF880
+#endif // StandMapSpriteTable
+#ifndef MoveMapSpriteTable
+#define MoveMapSpriteTable 0x9A2DF8
+#endif // MoveMapSpriteTable
+
+#define StandMapSpriteEntry(index, pattern, size, data) "PUSH; ORG StandMapSpriteTable + (index*8); SHORT pattern size; POIN data; POP"
+#define MoveMapSpriteEntry(index, ap, data) "PUSH; ORG MoveMapSpriteTable + ((index-1)*8); POIN data ap; POP"
+

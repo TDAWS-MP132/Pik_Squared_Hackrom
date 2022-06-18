@@ -1,0 +1,285 @@
+## MonkName
+Monk[X]
+
+## MonkDesc
+.[X]
+
+## PilgrimName
+Pilgrim[X]
+
+## PilgrimDesc
+.[X]
+
+## OniChieftanName
+Oni Chieftan[X]
+
+## OniChieftanDesc
+.[X]
+
+## ArmorKnightName
+Armor Knight[X]
+
+## CavalierName
+Cavalier[X]
+
+## CavalierDesc
+.[X]
+
+## SoldierName
+Soldier[X]
+
+## SoldierDesc
+.[X]
+
+## GeneralName
+General[X]
+
+## GeneralDesc
+.[X]
+
+## GreatKnightName
+Great Knight[X]
+
+## GreatKnightDesc
+.[X]
+
+## PaladinName
+Paladin[X]
+
+## PaladinDesc
+.[x]
+
+## HalberdierName
+Halberdier[X]
+
+## HalberdierDesc
+.[X]
+
+## ArcherName
+Archer[X]
+
+## ArcherDesc
+.[X]
+
+## MercenaryName
+Mercencary[X]
+
+## MercenaryDesc
+.[X]
+
+## FighterName
+Fighter[X]
+
+## FighterDesc
+.[X]
+
+## BrigandName
+Brigand[X]
+
+## BrigandDesc
+.[X]
+
+## PirateName
+Pirate[X]
+
+##PirateDesc
+.[X]
+
+## SniperName
+Sniper[X]
+
+## SniperDesc
+.[X]
+
+## RangerName
+Ranger[X]
+
+## RangerDesc
+.[X]
+
+## HeroName
+Hero[X]
+
+## HeroDesc
+.[X]
+
+## WarriorName
+Warrior[X]
+
+## WarriorDesc
+.[X]
+
+## BerserkerName
+Berserker[X]
+
+## BerserkerDesc
+.[X]
+
+## SamuraiName
+Samurai[X]
+
+## SamuraiDesc
+.[X]
+
+## ThiefName
+Thief[X]
+
+## ThiefDesc
+.[X]
+
+## SwordmasterName
+Swordmaster[X]
+
+## SwordmasterDesc
+.[X]
+
+## AssassinName
+Assassin[X]
+
+## AssassinDesc
+.[X]
+
+## RogueName
+Rogue[X]
+
+## RogueDesc
+.[X]
+
+## SkyKnightName
+Sky Knight[X]
+
+## SkyKnightDesc
+.[X]
+
+## WyvernKnightName
+Wyvern Knight[X]
+
+## WyvernKnightDesc
+.[X]
+
+## FalconKnightName
+Falcon Knight[X]
+
+## FalconKnightDesc
+.[X]
+
+## GriffonKnightName
+Griffon Knight[X]
+
+## GriffonKnightDesc
+.[X]
+
+## WyvernLordName
+Wyvern Lord[X]
+
+## WyvernLordDesc
+.[X]
+
+## HealerName
+Healer[X]
+
+## HealerDesc
+.[X]
+
+## BishopName
+Bishop[X]
+
+## BishopDesc
+.[X]
+
+## TroubadourName
+Troubadour[X]
+
+## TroubadourDesc
+.[X]
+
+## MageName
+Mage[X]
+
+## MageDesc
+.[X]
+
+## MageKnightName
+Mage Knight[X]
+
+## MageKnightDesc
+.[X]
+
+## SageName
+Sage[X]
+
+## SageDesc
+.[X]
+
+## ShamanName
+Shaman[X]
+
+## ShamanDesc
+.[X]
+
+## SpiritualistName
+Spiritualist[X]
+
+## SpiritualistDesc
+.[X]
+
+## DruidName
+Druid[X]
+
+## DruidDesc
+.[X]
+
+## DancerName
+Dancer[X]
+
+## DancerDesc
+.[X]
+
+## RevenantName
+Revenant[X]
+
+## RevenantDesc
+.[X]
+
+## EntombedName
+Entombed[X]
+
+## EntombedDesc
+.[X]
+
+## BonewalkerName
+Bonewalker[X]
+
+## BonewalkerDesc
+.[X]
+
+## WightName
+Wight[X]
+
+## WightDesc
+.[X]
+
+## MogallName
+Mogall[X]
+
+## MogallDesc
+.[X]
+
+## ArchMogallName
+Arch Mogall[X]
+
+## ArchMogallDesc
+.[X]
+
+## GargoyleName
+Gargoyle[X]
+
+## GargoyleDesc
+.[X]
+
+## DeathgoyleName
+Deathgoyle[X]
+
+## DeathgoyleDesc
+.[X]
+

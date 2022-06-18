@@ -1,0 +1,14 @@
+## KaishiName
+Kaishi[X]
+
+## KaishiDesc
+The chosen pilgrim.[N]
+Kind yet sheltered.[X]
+
+## JieweiName
+Jiewei[X]
+
+## JieweiDesc
+Once a vicious demon.[N]
+Now Kaishi's bodyguard.[X]
+
