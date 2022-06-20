@@ -5,8 +5,8 @@
 ORG EndSpace
 
 //Writans
-//#include "Writans/_TextTable/TextTable.event"
-//#include "Writans/_MasterTextInstaller.event"
+#include "Writans/_TextTable/TextTable.event"
+#include "Writans/_MasterTextInstaller.event"
 
 //Spritans
 //#include "Spritans/_MasterSpritansInstaller.event"
@@ -21,7 +21,7 @@ ORG EndSpace
 #include "Tables/_Repoint/MoreRepointers.event"
 
 //Maps
-//#include "Maps/tmx/_MasterMapInstaller.event"
+#include "Maps/tmx/_MasterMapInstaller.event"
 
 //Events
 //#include "Events/_MasterEventInstaller.event"

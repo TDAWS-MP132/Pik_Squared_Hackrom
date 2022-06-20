@@ -47,7 +47,7 @@ Great Knight[X]
 Paladin[X]
 
 ## PaladinDesc
-.[x]
+.[X]
 
 ## HalberdierName
 Halberdier[X]

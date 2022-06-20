@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.5" orientation="orthogonal" renderorder="right-down" width="18" height="18" tilewidth="16" tileheight="16" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="Improved Castle Tileset Palette 3" tilewidth="16" tileheight="16" tilecount="1024" columns="32">
+  <image source="../../../FE Hacking Tools/Tiled/Tilesets/Improved Castle Tileset - N426/Improved Castle Tileset Palette 3.png" width="512" height="512"/>
+ </tileset>
+ <layer id="1" name="Main" width="18" height="18">
+  <properties>
+   <property name="Anims1" value="CastleWaterTileAnimations"/>
+   <property name="ChapterID" value="0"/>
+   <property name="Main" value=""/>
+   <property name="MapChangesID" value="PrologueTileChange"/>
+   <property name="MapID" value="PrologueMap"/>
+   <property name="ObjectType" value="CastleObjectSet"/>
+   <property name="PaletteID" value="CastlePalette3"/>
+   <property name="TileConfig" value="CastleTileConfig"/>
+  </properties>
+  <data encoding="csv">
+425,425,425,425,425,552,427,427,551,552,427,427,551,425,425,425,425,425,
+425,552,427,428,427,554,353,422,553,554,424,354,427,428,427,428,551,425,
+425,458,762,666,666,666,666,666,666,666,666,666,666,666,666,763,457,425,
+425,490,730,905,906,907,727,698,725,727,698,725,905,906,907,731,489,425,
+425,458,730,937,720,939,731,195,730,731,196,730,937,720,939,731,457,425,
+425,490,730,969,880,971,725,666,725,725,666,725,969,880,971,731,489,425,
+425,458,730,725,698,725,727,727,698,698,725,727,725,698,727,731,457,425,
+425,490,730,731,195,730,725,795,99,163,794,727,731,195,730,731,489,425,
+425,458,730,727,666,725,731,131,135,136,164,730,725,666,727,731,457,425,
+425,490,730,725,698,725,731,164,167,168,131,730,725,698,727,731,489,425,
+425,458,730,731,196,730,727,763,163,131,762,725,731,196,730,731,457,425,
+425,490,730,727,666,725,725,727,666,666,727,725,725,666,725,731,489,425,
+425,458,730,905,906,907,725,698,725,725,698,725,905,906,907,731,457,425,
+425,490,730,937,720,939,731,196,730,731,196,730,937,720,939,731,489,425,
+425,458,730,969,880,971,725,666,727,725,666,725,969,880,971,731,457,425,
+425,490,794,698,698,698,698,698,698,698,698,698,698,698,698,795,489,425,
+425,425,425,425,425,458,418,419,457,458,418,419,457,425,425,425,425,425,
+425,425,425,425,425,490,453,454,489,490,453,454,489,425,425,425,425,425
+</data>
+ </layer>
+</map>

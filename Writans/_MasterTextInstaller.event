@@ -9,6 +9,402 @@
 
 {
 
+__TEXTPROCESS001:
+#incbin ".TextEntries\TextBuildfileKaishiName.fetxt.dmp"
+setText($1, __TEXTPROCESS001)
+
+__TEXTPROCESS002:
+#incbin ".TextEntries\TextBuildfileKaishiDesc.fetxt.dmp"
+setText($2, __TEXTPROCESS002)
+
+__TEXTPROCESS003:
+#incbin ".TextEntries\TextBuildfileJieweiName.fetxt.dmp"
+setText($3, __TEXTPROCESS003)
+
+__TEXTPROCESS004:
+#incbin ".TextEntries\TextBuildfileJieweiDesc.fetxt.dmp"
+setText($4, __TEXTPROCESS004)
+
+__TEXTPROCESS005:
+#incbin ".TextEntries\TextBuildfileMonkName.fetxt.dmp"
+setText($5, __TEXTPROCESS005)
+
+__TEXTPROCESS006:
+#incbin ".TextEntries\TextBuildfileMonkDesc.fetxt.dmp"
+setText($6, __TEXTPROCESS006)
+
+__TEXTPROCESS007:
+#incbin ".TextEntries\TextBuildfilePilgrimName.fetxt.dmp"
+setText($7, __TEXTPROCESS007)
+
+__TEXTPROCESS008:
+#incbin ".TextEntries\TextBuildfilePilgrimDesc.fetxt.dmp"
+setText($8, __TEXTPROCESS008)
+
+__TEXTPROCESS009:
+#incbin ".TextEntries\TextBuildfileOniChieftanName.fetxt.dmp"
+setText($9, __TEXTPROCESS009)
+
+__TEXTPROCESS00A:
+#incbin ".TextEntries\TextBuildfileOniChieftanDesc.fetxt.dmp"
+setText($A, __TEXTPROCESS00A)
+
+__TEXTPROCESS00B:
+#incbin ".TextEntries\TextBuildfileArmorKnightName.fetxt.dmp"
+setText($B, __TEXTPROCESS00B)
+
+__TEXTPROCESS00C:
+#incbin ".TextEntries\TextBuildfileCavalierName.fetxt.dmp"
+setText($C, __TEXTPROCESS00C)
+
+__TEXTPROCESS00D:
+#incbin ".TextEntries\TextBuildfileCavalierDesc.fetxt.dmp"
+setText($D, __TEXTPROCESS00D)
+
+__TEXTPROCESS00E:
+#incbin ".TextEntries\TextBuildfileSoldierName.fetxt.dmp"
+setText($E, __TEXTPROCESS00E)
+
+__TEXTPROCESS00F:
+#incbin ".TextEntries\TextBuildfileSoldierDesc.fetxt.dmp"
+setText($F, __TEXTPROCESS00F)
+
+__TEXTPROCESS010:
+#incbin ".TextEntries\TextBuildfileGeneralName.fetxt.dmp"
+setText($10, __TEXTPROCESS010)
+
+__TEXTPROCESS011:
+#incbin ".TextEntries\TextBuildfileGeneralDesc.fetxt.dmp"
+setText($11, __TEXTPROCESS011)
+
+__TEXTPROCESS012:
+#incbin ".TextEntries\TextBuildfileGreatKnightName.fetxt.dmp"
+setText($12, __TEXTPROCESS012)
+
+__TEXTPROCESS013:
+#incbin ".TextEntries\TextBuildfileGreatKnightDesc.fetxt.dmp"
+setText($13, __TEXTPROCESS013)
+
+__TEXTPROCESS014:
+#incbin ".TextEntries\TextBuildfilePaladinName.fetxt.dmp"
+setText($14, __TEXTPROCESS014)
+
+__TEXTPROCESS015:
+#incbin ".TextEntries\TextBuildfilePaladinDesc.fetxt.dmp"
+setText($15, __TEXTPROCESS015)
+
+__TEXTPROCESS016:
+#incbin ".TextEntries\TextBuildfileHalberdierName.fetxt.dmp"
+setText($16, __TEXTPROCESS016)
+
+__TEXTPROCESS017:
+#incbin ".TextEntries\TextBuildfileHalberdierDesc.fetxt.dmp"
+setText($17, __TEXTPROCESS017)
+
+__TEXTPROCESS018:
+#incbin ".TextEntries\TextBuildfileArcherName.fetxt.dmp"
+setText($18, __TEXTPROCESS018)
+
+__TEXTPROCESS019:
+#incbin ".TextEntries\TextBuildfileArcherDesc.fetxt.dmp"
+setText($19, __TEXTPROCESS019)
+
+__TEXTPROCESS01A:
+#incbin ".TextEntries\TextBuildfileMercenaryName.fetxt.dmp"
+setText($1A, __TEXTPROCESS01A)
+
+__TEXTPROCESS01B:
+#incbin ".TextEntries\TextBuildfileMercenaryDesc.fetxt.dmp"
+setText($1B, __TEXTPROCESS01B)
+
+__TEXTPROCESS01C:
+#incbin ".TextEntries\TextBuildfileFighterName.fetxt.dmp"
+setText($1C, __TEXTPROCESS01C)
+
+__TEXTPROCESS01D:
+#incbin ".TextEntries\TextBuildfileFighterDesc.fetxt.dmp"
+setText($1D, __TEXTPROCESS01D)
+
+__TEXTPROCESS01E:
+#incbin ".TextEntries\TextBuildfileBrigandName.fetxt.dmp"
+setText($1E, __TEXTPROCESS01E)
+
+__TEXTPROCESS01F:
+#incbin ".TextEntries\TextBuildfileBrigandDesc.fetxt.dmp"
+setText($1F, __TEXTPROCESS01F)
+
+__TEXTPROCESS020:
+#incbin ".TextEntries\TextBuildfilePirateName.fetxt.dmp"
+setText($20, __TEXTPROCESS020)
+
+__TEXTPROCESS021:
+#incbin ".TextEntries\TextBuildfilePirateDesc.fetxt.dmp"
+setText($21, __TEXTPROCESS021)
+
+__TEXTPROCESS022:
+#incbin ".TextEntries\TextBuildfileSniperName.fetxt.dmp"
+setText($22, __TEXTPROCESS022)
+
+__TEXTPROCESS023:
+#incbin ".TextEntries\TextBuildfileSniperDesc.fetxt.dmp"
+setText($23, __TEXTPROCESS023)
+
+__TEXTPROCESS024:
+#incbin ".TextEntries\TextBuildfileRangerName.fetxt.dmp"
+setText($24, __TEXTPROCESS024)
+
+__TEXTPROCESS025:
+#incbin ".TextEntries\TextBuildfileRangerDesc.fetxt.dmp"
+setText($25, __TEXTPROCESS025)
+
+__TEXTPROCESS026:
+#incbin ".TextEntries\TextBuildfileHeroName.fetxt.dmp"
+setText($26, __TEXTPROCESS026)
+
+__TEXTPROCESS027:
+#incbin ".TextEntries\TextBuildfileHeroDesc.fetxt.dmp"
+setText($27, __TEXTPROCESS027)
+
+__TEXTPROCESS028:
+#incbin ".TextEntries\TextBuildfileWarriorName.fetxt.dmp"
+setText($28, __TEXTPROCESS028)
+
+__TEXTPROCESS029:
+#incbin ".TextEntries\TextBuildfileWarriorDesc.fetxt.dmp"
+setText($29, __TEXTPROCESS029)
+
+__TEXTPROCESS02A:
+#incbin ".TextEntries\TextBuildfileBerserkerName.fetxt.dmp"
+setText($2A, __TEXTPROCESS02A)
+
+__TEXTPROCESS02B:
+#incbin ".TextEntries\TextBuildfileBerserkerDesc.fetxt.dmp"
+setText($2B, __TEXTPROCESS02B)
+
+__TEXTPROCESS02C:
+#incbin ".TextEntries\TextBuildfileSamuraiName.fetxt.dmp"
+setText($2C, __TEXTPROCESS02C)
+
+__TEXTPROCESS02D:
+#incbin ".TextEntries\TextBuildfileSamuraiDesc.fetxt.dmp"
+setText($2D, __TEXTPROCESS02D)
+
+__TEXTPROCESS02E:
+#incbin ".TextEntries\TextBuildfileThiefName.fetxt.dmp"
+setText($2E, __TEXTPROCESS02E)
+
+__TEXTPROCESS02F:
+#incbin ".TextEntries\TextBuildfileThiefDesc.fetxt.dmp"
+setText($2F, __TEXTPROCESS02F)
+
+__TEXTPROCESS030:
+#incbin ".TextEntries\TextBuildfileSwordmasterName.fetxt.dmp"
+setText($30, __TEXTPROCESS030)
+
+__TEXTPROCESS031:
+#incbin ".TextEntries\TextBuildfileSwordmasterDesc.fetxt.dmp"
+setText($31, __TEXTPROCESS031)
+
+__TEXTPROCESS032:
+#incbin ".TextEntries\TextBuildfileAssassinName.fetxt.dmp"
+setText($32, __TEXTPROCESS032)
+
+__TEXTPROCESS033:
+#incbin ".TextEntries\TextBuildfileAssassinDesc.fetxt.dmp"
+setText($33, __TEXTPROCESS033)
+
+__TEXTPROCESS034:
+#incbin ".TextEntries\TextBuildfileRogueName.fetxt.dmp"
+setText($34, __TEXTPROCESS034)
+
+__TEXTPROCESS035:
+#incbin ".TextEntries\TextBuildfileRogueDesc.fetxt.dmp"
+setText($35, __TEXTPROCESS035)
+
+__TEXTPROCESS036:
+#incbin ".TextEntries\TextBuildfileSkyKnightName.fetxt.dmp"
+setText($36, __TEXTPROCESS036)
+
+__TEXTPROCESS037:
+#incbin ".TextEntries\TextBuildfileSkyKnightDesc.fetxt.dmp"
+setText($37, __TEXTPROCESS037)
+
+__TEXTPROCESS038:
+#incbin ".TextEntries\TextBuildfileWyvernKnightName.fetxt.dmp"
+setText($38, __TEXTPROCESS038)
+
+__TEXTPROCESS039:
+#incbin ".TextEntries\TextBuildfileWyvernKnightDesc.fetxt.dmp"
+setText($39, __TEXTPROCESS039)
+
+__TEXTPROCESS03A:
+#incbin ".TextEntries\TextBuildfileFalconKnightName.fetxt.dmp"
+setText($3A, __TEXTPROCESS03A)
+
+__TEXTPROCESS03B:
+#incbin ".TextEntries\TextBuildfileFalconKnightDesc.fetxt.dmp"
+setText($3B, __TEXTPROCESS03B)
+
+__TEXTPROCESS03C:
+#incbin ".TextEntries\TextBuildfileGriffonKnightName.fetxt.dmp"
+setText($3C, __TEXTPROCESS03C)
+
+__TEXTPROCESS03D:
+#incbin ".TextEntries\TextBuildfileGriffonKnightDesc.fetxt.dmp"
+setText($3D, __TEXTPROCESS03D)
+
+__TEXTPROCESS03E:
+#incbin ".TextEntries\TextBuildfileWyvernLordName.fetxt.dmp"
+setText($3E, __TEXTPROCESS03E)
+
+__TEXTPROCESS03F:
+#incbin ".TextEntries\TextBuildfileWyvernLordDesc.fetxt.dmp"
+setText($3F, __TEXTPROCESS03F)
+
+__TEXTPROCESS040:
+#incbin ".TextEntries\TextBuildfileHealerName.fetxt.dmp"
+setText($40, __TEXTPROCESS040)
+
+__TEXTPROCESS041:
+#incbin ".TextEntries\TextBuildfileHealerDesc.fetxt.dmp"
+setText($41, __TEXTPROCESS041)
+
+__TEXTPROCESS042:
+#incbin ".TextEntries\TextBuildfileBishopName.fetxt.dmp"
+setText($42, __TEXTPROCESS042)
+
+__TEXTPROCESS043:
+#incbin ".TextEntries\TextBuildfileBishopDesc.fetxt.dmp"
+setText($43, __TEXTPROCESS043)
+
+__TEXTPROCESS044:
+#incbin ".TextEntries\TextBuildfileTroubadourName.fetxt.dmp"
+setText($44, __TEXTPROCESS044)
+
+__TEXTPROCESS045:
+#incbin ".TextEntries\TextBuildfileTroubadourDesc.fetxt.dmp"
+setText($45, __TEXTPROCESS045)
+
+__TEXTPROCESS046:
+#incbin ".TextEntries\TextBuildfileMageName.fetxt.dmp"
+setText($46, __TEXTPROCESS046)
+
+__TEXTPROCESS047:
+#incbin ".TextEntries\TextBuildfileMageDesc.fetxt.dmp"
+setText($47, __TEXTPROCESS047)
+
+__TEXTPROCESS048:
+#incbin ".TextEntries\TextBuildfileMageKnightName.fetxt.dmp"
+setText($48, __TEXTPROCESS048)
+
+__TEXTPROCESS049:
+#incbin ".TextEntries\TextBuildfileMageKnightDesc.fetxt.dmp"
+setText($49, __TEXTPROCESS049)
+
+__TEXTPROCESS04A:
+#incbin ".TextEntries\TextBuildfileSageName.fetxt.dmp"
+setText($4A, __TEXTPROCESS04A)
+
+__TEXTPROCESS04B:
+#incbin ".TextEntries\TextBuildfileSageDesc.fetxt.dmp"
+setText($4B, __TEXTPROCESS04B)
+
+__TEXTPROCESS04C:
+#incbin ".TextEntries\TextBuildfileShamanName.fetxt.dmp"
+setText($4C, __TEXTPROCESS04C)
+
+__TEXTPROCESS04D:
+#incbin ".TextEntries\TextBuildfileShamanDesc.fetxt.dmp"
+setText($4D, __TEXTPROCESS04D)
+
+__TEXTPROCESS04E:
+#incbin ".TextEntries\TextBuildfileSpiritualistName.fetxt.dmp"
+setText($4E, __TEXTPROCESS04E)
+
+__TEXTPROCESS04F:
+#incbin ".TextEntries\TextBuildfileSpiritualistDesc.fetxt.dmp"
+setText($4F, __TEXTPROCESS04F)
+
+__TEXTPROCESS050:
+#incbin ".TextEntries\TextBuildfileDruidName.fetxt.dmp"
+setText($50, __TEXTPROCESS050)
+
+__TEXTPROCESS051:
+#incbin ".TextEntries\TextBuildfileDruidDesc.fetxt.dmp"
+setText($51, __TEXTPROCESS051)
+
+__TEXTPROCESS052:
+#incbin ".TextEntries\TextBuildfileDancerName.fetxt.dmp"
+setText($52, __TEXTPROCESS052)
+
+__TEXTPROCESS053:
+#incbin ".TextEntries\TextBuildfileDancerDesc.fetxt.dmp"
+setText($53, __TEXTPROCESS053)
+
+__TEXTPROCESS054:
+#incbin ".TextEntries\TextBuildfileRevenantName.fetxt.dmp"
+setText($54, __TEXTPROCESS054)
+
+__TEXTPROCESS055:
+#incbin ".TextEntries\TextBuildfileRevenantDesc.fetxt.dmp"
+setText($55, __TEXTPROCESS055)
+
+__TEXTPROCESS056:
+#incbin ".TextEntries\TextBuildfileEntombedName.fetxt.dmp"
+setText($56, __TEXTPROCESS056)
+
+__TEXTPROCESS057:
+#incbin ".TextEntries\TextBuildfileEntombedDesc.fetxt.dmp"
+setText($57, __TEXTPROCESS057)
+
+__TEXTPROCESS058:
+#incbin ".TextEntries\TextBuildfileBonewalkerName.fetxt.dmp"
+setText($58, __TEXTPROCESS058)
+
+__TEXTPROCESS059:
+#incbin ".TextEntries\TextBuildfileBonewalkerDesc.fetxt.dmp"
+setText($59, __TEXTPROCESS059)
+
+__TEXTPROCESS05A:
+#incbin ".TextEntries\TextBuildfileWightName.fetxt.dmp"
+setText($5A, __TEXTPROCESS05A)
+
+__TEXTPROCESS05B:
+#incbin ".TextEntries\TextBuildfileWightDesc.fetxt.dmp"
+setText($5B, __TEXTPROCESS05B)
+
+__TEXTPROCESS05C:
+#incbin ".TextEntries\TextBuildfileMogallName.fetxt.dmp"
+setText($5C, __TEXTPROCESS05C)
+
+__TEXTPROCESS05D:
+#incbin ".TextEntries\TextBuildfileMogallDesc.fetxt.dmp"
+setText($5D, __TEXTPROCESS05D)
+
+__TEXTPROCESS05E:
+#incbin ".TextEntries\TextBuildfileArchMogallName.fetxt.dmp"
+setText($5E, __TEXTPROCESS05E)
+
+__TEXTPROCESS05F:
+#incbin ".TextEntries\TextBuildfileArchMogallDesc.fetxt.dmp"
+setText($5F, __TEXTPROCESS05F)
+
+__TEXTPROCESS060:
+#incbin ".TextEntries\TextBuildfileGargoyleName.fetxt.dmp"
+setText($60, __TEXTPROCESS060)
+
+__TEXTPROCESS061:
+#incbin ".TextEntries\TextBuildfileGargoyleDesc.fetxt.dmp"
+setText($61, __TEXTPROCESS061)
+
+__TEXTPROCESS062:
+#incbin ".TextEntries\TextBuildfileDeathgoyleName.fetxt.dmp"
+setText($62, __TEXTPROCESS062)
+
+__TEXTPROCESS063:
+#incbin ".TextEntries\TextBuildfileDeathgoyleDesc.fetxt.dmp"
+setText($63, __TEXTPROCESS063)
+
 }
 
 #endif // TEXT_INSTALLER
